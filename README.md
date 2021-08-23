@@ -6,9 +6,11 @@
 
 Instructions:
 
-(1) Run `pip install -r requirements.txt` to install the required packages.
+(1) Install **Microsoft C++ Build Tools** (https://visualstudio.microsoft.com/en-us/visual-cpp-build-tools/) (required by PyCocoTools)
 
-(2) Run `python setup.py install` to install the package.
+(2) Run `pip install -r requirements.txt` to install the required packages.
+
+(3) Run `python setup.py install` to install the package.
 
 
 
