@@ -2,7 +2,7 @@
 
 
 
-### This is a fork from [MatterPort/MaskRCNN](MatterPort/MaskRCNN). The code has been updated to work under **Python 3.8** and **Tensorflow 2.4**.
+### This is a fork from [MatterPort/MaskRCNN](MatterPort/MaskRCNN). The code has been updated to work under **Python 3.8** and **Tensorflow 2.4 - 2.6**.
 
 Instructions:
 
